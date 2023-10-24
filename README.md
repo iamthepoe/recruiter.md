@@ -1,5 +1,3 @@
-
-
 # Para recrutadores 💜
 
 
@@ -17,7 +15,13 @@ Aqui estarão **listados** de forma **organizada** alguns **projetos** important
 
 
 ## 👀 Projetos
-<h3>Em construção...</h3>
+| Título | Tópicos | Tecnologias |
+|--|---------------------------------------------------|--|
+|[Boolestation Web](https://github.com/etec-sa/boolestation-web) | Front-end; Blog; Landing Page; TCC. | ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=typescript) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=Next.js) ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)|
+| [Boolestation Server](https://github.com/etec-sa/boolestation-server) | Back-end; Servidor; TCC. |  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=typescript)|
+ | [Frege.js](https://github.com/etec-sa/frege)| Biblioteca; Pacote; Lógica Formal; Testes Automatizados. | ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=typescript)  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Github Actions](https://img.shields.io/badge/Github%20Actions-000?&logo=github)|
+
+
 
 ## 🚀 Tecnologias
 
